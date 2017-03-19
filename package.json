@@ -1,6 +1,6 @@
 {
   "name": "dush-no-chaining",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A plugin that removes the emitter methods chaining support for `dush`, `base`, `minibase` or anything based on them",
   "repository": "tunnckoCore/dush-no-chaining",
   "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",
