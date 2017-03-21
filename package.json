@@ -69,6 +69,7 @@
         "base",
         "try-catch-core",
         "dush-tap-report",
+        "dush-methods",
         "stacktrace-metadata",
         "dush",
         "find-callsite"
